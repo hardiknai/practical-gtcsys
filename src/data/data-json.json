@@ -1,0 +1,73 @@
+{
+  "form": [
+    {
+      "id": 1,
+      "title": "Enter your personal detail",
+      "controls": [
+        {
+          "id": "name",
+          "label": "Name",
+          "placehoder": "Enter your name",
+          "type": "textbox",
+          "value": ""
+        },
+        {
+          "id": "email",
+          "label": "Email",
+          "placehoder": "Enter your email",
+          "type": "textbox",
+          "value": ""
+        },
+        {
+          "id": "password",
+          "label": "Password",
+          "placehoder": "Enter your password",
+          "type": "textbox",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Where do you invest?",
+      "controls": [
+        {
+          "id": "ahmedabad",
+          "label": "Ahmedabad",
+          "type": "checkbox",
+          "value": false
+        },
+        {
+          "id": "rajkot",
+          "label": "Rajkot",
+          "type": "checkbox",
+          "value": false
+        },
+        {
+          "id": "surat",
+          "label": "surat",
+          "type": "checkbox",
+          "value": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Are you interested in any of the following services?",
+      "controls": [
+        {
+          "id": "interiordesign",
+          "label": "Custom Interior Design",
+          "type": "checkbox",
+          "value": false
+        },
+        {
+          "id": "Resale & Listing Brokerage",
+          "label": "Rajkot",
+          "type": "checkbox",
+          "value": false
+        }
+      ]
+    }
+  ]
+}
